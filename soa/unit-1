@@ -1,0 +1,10 @@
+Service is component of distinctive functional meaning that
+typically encapsulate a high-level business
+concept
+
+Service contains:-
+
+Contract – message type def,
+constraint, description (comment)
+Interface – set of operations
+Implementation – Logic and data
