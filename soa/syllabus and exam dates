@@ -1,0 +1,23 @@
+UNIT-I
+Introduction: Roots of SOA, Characteristics of SOA, Comparing SOA to client-server
+and distributed internet architectures, Anatomy of SOA, How components in an SOA
+interrelate, Principles of service orientation
+UNIT-II
+Web services: Service descriptions, Messaging with SOAP, Message exchange
+Patterns, Coordination, Atomic Transactions, Business activities, Orchestration,
+Choreography, Service layer abstraction, Application Service Layer, Business Service
+Layer, Orchestration Service Layer
+UNIT-III
+Service oriented analysis: Business-centric SOA, Deriving business services,
+service modeling, Service Oriented Design, WSDL basics, SOAP basics, SOA
+composition guidelines, Entity-centric business service design, Application service
+design, Task- centric business service design
+UNIT-IV
+SOA platform basics: SOA support in J2EE, Java API for XML-based web services
+(JAX-WS), Java architecture for XML binding (JAXB), Java API for XML Registries
+(JAXR) , Java API for XML based RPC (JAX-RPC).
+UNIT-V
+WS-BPEL basics: WS-Coordination overview, WS-Choreography, WS-Policy, WSSecurity
+Emerging trends
+
+Mid sem - 23 sept 2025
