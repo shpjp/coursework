@@ -11,6 +11,7 @@
 
 ---
 
+
 ## 2. Service-Oriented Architecture (SOA) (Early 2000s)
 - **Introduced in the early 2000s** as a response to monolithic pain.
 - Key idea: break apps into **services** that communicate via standardized protocols (SOAP, XML, ESB).
