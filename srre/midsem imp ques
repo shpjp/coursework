@@ -1,0 +1,112 @@
+Identify 5 real-world examples of application systems and their reusable components. 
+• Example given: Application = E-commerce site, Component = Payment Gateway. 
+• Students should list systems they use daily (banking apps, ride-sharing, learning 
+portals, etc.). 
+
+Take a hypothetical project using OOSE principles. 
+1. Write 2–3 use cases (e.g., Deposit, Withdraw, Check Balance). 
+2. Define classes with encapsulation (e.g., Customer, Account). 
+3. Demonstrate inheritance & polymorphism (e.g., Account → SavingsAccount, 
+CurrentAccount). 
+4. Identify one component that can be reused in other systems (e.g., Authentication or 
+Transaction Logger). 
+5. Submit as a short document with UML class diagram + brief explanation. 
+Take a hypothetical project:- 
+
+1. Identify at least three main use cases (e.g., Place Order, Make Payment, Track Order). 
+2. Write use case components (actor, goal, scenario, pre/postconditions). 
+3. Create an object model (class diagram) showing main classes (Customer, Restaurant, 
+Order, Delivery, Payment) and relationships. 
+
+Take a hypothetical project:- 
+1. Identify one actor (e.g., Viewer). 
+2. Write a short use case: “Play a Video.” 
+3. Sketch a simple object model with at least 3 classes (Viewer, Video, Player). 
+
+Take a hypothetical project:- 
+1. Identify at least 4 major components (e.g., Product Catalog, Cart, Payment, Delivery). 
+2. Define what each component encapsulates (data + operations). 
+3. Draw a UML Component Diagram showing how they interact. 
+
+Take a hypothetical project:- 
+1. Identify 2 object components (e.g., Account Component, Transaction Component). 
+2. Write what functionality each encapsulates. 
+3. Sketch a mini component diagram on paper. 
+
+Take a hypothetical project:- 
+1. Identify reusable analysis components (requirements patterns/domain models). 
+Example: User login, course catalog, enrollment. 
+2. Identify reusable design components (patterns/frameworks). Example: Observer 
+pattern for notifications, MVC framework for web. 
+3. Suggest reuse strategies for making the platform scalable.
+
+Take a hypothetical project:- 
+1. Name one analysis component that can be reused in other domains. (e.g., 
+Authentication → used in banking, healthcare). 
+2. Name one design pattern that can be reused. (e.g., Observer → for stock price alerts, 
+app notifications). 
+
+Take a hypothetical project:- 
+1. Identify use case variability (e.g., Free User vs. Premium User features). 
+2. Show how variability maps into the object model (e.g., User class with FreeUser and 
+PremiumUser subclasses). 
+3. Identify at least one configurable component (e.g., User can configure playlist type) 
+and one adaptable component (e.g., Recommendation engine adapts to listening 
+habits). 
+4. Briefly discuss how the app fits into an SPL perspective (e.g., music app family with 
+different versions – student plan, family plan, premium). 
+
+Take a hypothetical project:- 
+1. Identify one variable use case (e.g., Payment: COD / UPI / Card). 
+2. Draw a mini object model showing variability (base Payment class with sub-classes). 
+3. Mention whether it is configurable (user selects at checkout) or adaptable (system 
+suggests preferred method). 
+
+Take a hypothetical project:- 
+1. Identify at least 3 reusable implementation components (e.g., Authentication module, 
+Payment Gateway API, Recommendation Engine). 
+2. Show how these map into a 3-layer architecture (Presentation, Business, Data). 
+3. Draw a Layered Architecture Diagram labeling reusable components at each layer. 
+
+Take a hypothetical project:- 
+1. Identify one reusable component for each layer: 
+• Presentation → Search UI. 
+• Business → Fine Calculation. 
+• Data → Book Database Access. 
+2. Sketch a quick 3-layer diagram. 
+
+Software reuse demands structured engineering practices. Suggest two modifications to the 
+requirements and testing phases of SDLC that can maximize reuse, and justify why they are 
+necessary. 
+
+Compare planned reuse and emergent reuse. In your answer, explain how each approach 
+affects project timelines and give an example scenario for each. 
+
+Reuse efforts often fail due to lack of commitment. Identify and explain two organizational 
+enablers (not technical) that can significantly influence the success of reuse initiatives. 
+
+Discuss the role of governance policies (such as coding standards, repository rules, or review 
+guidelines) in creating a sustainable reuse ecosystem. 
+
+As a project manager, what two strategies would you implement to encourage your 
+developers to contribute to and consume from a shared component library? 
+
+OOSE emphasizes encapsulation and inheritance. Explain how these principles lead to low 
+coupling and high cohesion, and why this matters for reuse. Provide an example with a class 
+hierarchy. 
+
+Differentiate between domain-specific reusable assets (e.g., a banking authentication 
+module) and general-purpose reusable assets (e.g., a logging library). Give one example of 
+each. 
+
+Variability in use cases often creates design challenges. Explain how tracking alternate flows 
+in use cases helps in developing reusable classes or methods. 
+
+Beyond productivity, what are two quality-related benefits of adopting component-based 
+software development? Support with short reasoning. 
+
+Multi-tier (n-layered) architectures separate concerns. Explain with an example how replacing 
+the presentation layer (e.g., web to mobile app) demonstrates reuse without affecting 
+business logic or data layers.
+  
+ 
